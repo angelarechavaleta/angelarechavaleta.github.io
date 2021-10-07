@@ -12,7 +12,7 @@ I pride myself in being responsible, responsive and  easy going.
 Overseeing all technological operations including the I.T., Development and Design Departments assuring the upmost quality of products while maintaining forward momentum in implementing the newest advances and managing on-site and remote team workers. In addition, maintaining a Windows Server clustered web hosting environment and SQL Always On clustered databases. Of which I am the soul DBA tasked with planning and implementing strategies which ensure that I maintain 99% uptime. We create over fifty custom websites a year of which I was directly involved in coding html/javascript/jquery/tsql/.net and the final quality assurance steps of validation and cross browsing while keeping to Google SEO standards.
 Projects we’ve worked on can be seen through the website:
 https://www.resionline.com
-
+[RESI](https://www.resionline.com)
 
 **InfoTrac**
 *8/2020 – Current*
