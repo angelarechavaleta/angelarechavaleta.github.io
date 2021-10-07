@@ -90,7 +90,7 @@ Signal: anautica@gmail.com<br>
 Skype: AngelArechavaleta<br>
 
 <style>
-header, .footer {
+header, footer {
   display: none;
 }
 </style>
