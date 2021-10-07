@@ -1,37 +1,87 @@
 ## Angel Arechavaleta
 
-You can use the [editor on GitHub](https://github.com/angelarechavaleta/angelarechavaleta.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Angel Arechavaleta. I'm a Full Stack developer with of 20 years experience.
+I pride myself in being responsible, responsive and  easy going. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Work Experience
 
 ```markdown
-Syntax highlighted code block
+Real Estate System Integrators (RESI)
+11/2004 – Current
 
-# Header 1
-## Header 2
-### Header 3
+Overseeing all technological operations including the I.T., Development and Design Departments assuring the upmost quality of products while maintaining forward momentum in implementing the newest advances and managing on-site and remote team workers. In addition, maintaining a Windows Server clustered web hosting environment and SQL Always On clustered databases. Of which I am the soul DBA tasked with planning and implementing strategies which ensure that I maintain 99% uptime. We create over fifty custom websites a year of which I was directly involved in coding html/javascript/jquery/tsql/.net and the final quality assurance steps of validation and cross browsing while keeping to Google SEO standards.
+Projects we’ve worked on can be seen through the website:
+https://www.resionline.com
 
-- Bulleted
-- List
+InfoTrac 
+8/2020 – Current
 
-1. Numbered
-2. List
+Full Stack Developer
+Total overhaul of “Total Alignment” KPI Management UX/UI while optimizing/correcting major database performance issues.
+Product: https://infotrac.com/tops-software/ 
 
-**Bold** and _Italic_ and `Code` text
+HTML, CSS, Bootstrap
+Git 
+Node.js
+AngularJS, React, Javascript, JQuery, AJAX
+Zendesk API
+HTML5 Graphs
+MA Software Systems
+3/2019 – 8/2020
 
-[Link](url) and ![Image](src)
-```
+Full Stack Developer
+Created custom solutions for various clients. 
+Including:
+Atlanta Convention & Visitors Bureau: Integrated Microsoft Graph API for the events calendar. 
+Ex. https://discoveratlanta.com/add-your-event/ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ITI Digital: Created (Facebook Graph - Instagram) widget. 
+Ex. https://visitnsbfl.com/
 
-### Jekyll Themes
+AWS – Setup 
+Azure AD
+HTML, CSS, Bootstrap
+AngularJS, React, Javascript, JQuery, AJAX
+Microsoft Graph API
+HTML5 Graphs
+Instagram
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angelarechavaleta/angelarechavaleta.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Education
+
+U of M US-fl-Miami 1997
+Masters in Computer Science 
+
+
+
+### Skills
+
+C#, J++, .net c#, .net VB, ASP.NET CORE, ASP (vbScript), PHP, HTML(fully validated), CSS, Bootstrap
+Git 
+Node.js
+AngularJS, React, Javascript, JQuery, AJAX 
+AWS
+Azure AD
+API Integrations: Instagram, Guesty , Zendesk and many more
+Microsoft Graph API
+Google & Yahoo API libraries
+SOAP, REST, XML ETL parsing
+Windows 
+IBM
+Network development and management. 
+Computer troubleshooting and repair. 
+Bilingual -Spanish 
+MSSQL Database Development and maintenance 
+MySql
+NoSQL
+TCP/IP, T1, ATM 
+VoIP/NBX Call Center
+
+
+### Contact
+
+Email: anautica@gmail.com
+Signal: anautica@gmail.com
+Skype: AngelArechavaleta
+
