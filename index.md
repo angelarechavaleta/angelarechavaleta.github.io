@@ -5,7 +5,7 @@ I pride myself in being responsible, responsive and  easy going.
 
 ### Work Experience
 
-```markdown
+
 **Real Estate System Integrators (RESI)**
 *11/2004 – Current*
 
@@ -27,7 +27,7 @@ Node.js
 AngularJS, React, Javascript, JQuery, AJAX
 Zendesk API
 HTML5 Graphs
-```
+
 
 **MA Software Systems**
 *3/2019 – 8/2020*
