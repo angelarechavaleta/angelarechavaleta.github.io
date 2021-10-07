@@ -93,5 +93,6 @@ Skype: AngelArechavaleta<br>
 header, footer {
   display: none;
 }
+section {min-width:500px;width:80%;display:block; margin:0 auto;}
 </style>
 
