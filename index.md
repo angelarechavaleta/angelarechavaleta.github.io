@@ -89,3 +89,9 @@ Email: **anautica@gmail.com**<br>
 Signal: anautica@gmail.com<br>
 Skype: AngelArechavaleta<br>
 
+<style>
+header, .footer {
+  display: none;
+}
+</style>
+
