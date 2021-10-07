@@ -1,6 +1,6 @@
 ## Angel Arechavaleta
 
-My name is Angel Arechavaleta. I'm a Full Stack developer with of 20 years experience.
+I'm a Full Stack developer with of 20 years experience.
 I pride myself in being responsible, responsive and  easy going. 
 
 ### Work Experience
