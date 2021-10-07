@@ -78,12 +78,12 @@ NoSQL <br>
 TCP/IP, T1, ATM  <br>
 VoIP/NBX Call Center <br>
 
-### Languages
+### Spoken Languages
 
 English <br>
 Spanish
 
-### Contact
+### Contact Info
 
 Email: **anautica@gmail.com**<br>
 Signal: anautica@gmail.com<br>
